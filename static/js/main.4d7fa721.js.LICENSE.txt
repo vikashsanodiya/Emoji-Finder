@@ -12,8 +12,8 @@ object-assign
  */
 
 /*!
- * github-buttons v2.14.0
- * (c) 2020 なつき
+ * github-buttons v2.28.0
+ * (c) 2024 なつき
  * @license BSD-2-Clause
  */
 
